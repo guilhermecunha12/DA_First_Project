@@ -1,5 +1,6 @@
-# DA_first_project
-Organizational tool for assigning papers to reviewers in a scientific committee based on expertise.
+# Organizational Tool for Paper-to-Reviewer Assignment
+
+Organizational tool for assigning papers to reviewers in a scientific committee based on expertise, using a Max Flow Algorithm.
 
 ## Linux / MacOS build instructions
 ````
@@ -14,3 +15,11 @@ cmake --build build
 ./OrgToolTests
 ````
 GRADE: 19.0/20
+
+## Developers
+
+This project was developed by:
+
+* Gabriel Magalhães (up202405890)
+* Guilherme Cunha (up202405961)
+* Pedro Pires (up202405967)
