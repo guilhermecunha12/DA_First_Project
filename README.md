@@ -1,6 +1,6 @@
 # Organizational Tool for Paper-to-Reviewer Assignment
 
-Organizational tool for assigning papers to reviewers in a scientific committee based on expertise, using a Max Flow Algorithm.
+Organizational tool for assigning papers to reviewers in a scientific committee based on expertise, using Max Flow Algorithms in C++.
 
 ## Linux / MacOS build instructions
 ````
